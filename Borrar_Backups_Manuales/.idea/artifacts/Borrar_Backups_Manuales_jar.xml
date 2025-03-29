@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Borrar_Backups_Manuales:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Borrar_Backups_Manuales_jar</output-path>
+    <root id="archive" name="Borrar_Backups_Manuales.jar">
+      <element id="module-output" name="Borrar_Backups_Manuales" />
+    </root>
+  </artifact>
+</component>
