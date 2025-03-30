@@ -12,6 +12,9 @@
 
 🚀 Uso
 Comando para ejecutar el proyecto
+
 java -jar Borrar_Backups_Manuales.jar
+
 o
+
 java -jar Borrar_Backups_Manuales.exe
