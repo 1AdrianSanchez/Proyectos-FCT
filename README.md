@@ -10,8 +10,7 @@
 
 ✅ Crea un archivo txt para llevar un registro de que backups han sido borrados y en qu fecha
 
-🚀 Uso
-Comando para ejecutar el proyecto
+🚀 Comando para ejecutar el proyecto
 
 java -jar Borrar_Backups_Manuales.jar
 
