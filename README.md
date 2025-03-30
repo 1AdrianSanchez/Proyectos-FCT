@@ -1,4 +1,4 @@
-📌 Borrar_Backups_Manuales: Programa que sirve para eliminar las copias de las bases de datos realizadas manualmente por los clientes pudiendo elegir a partir de X antiguedad.
+📌 Borrar_Backups_Manuales: Programa que sirve para eliminar las copias de las BBDD realizadas manualmente por los clientes pudiendo elegir su borrado segun antiguedad 
 
 🛠️ Lenguajes: Java
 
