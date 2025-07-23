@@ -4,6 +4,7 @@ Programa que sirve para eliminar las copias de las BBDD realizadas manualmente p
 
 🔗 Repositorio: [github.com/1AdrianSanchez/Proyectos-FCT](https://github.com/1AdrianSanchez/Proyectos-FCT)
 
+---
 
 🛠️ Lenguajes: Java
 
