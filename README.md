@@ -6,7 +6,8 @@ Programa que sirve para eliminar las copias de las BBDD realizadas manualmente p
 
 ---
 
-🛠️ Lenguajes: Java
+## 🛠️ Lenguajes:
+- Java
 
 ---
 
