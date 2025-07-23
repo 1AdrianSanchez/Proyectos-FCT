@@ -2,6 +2,8 @@
 
 Programa que sirve para eliminar las copias de las BBDD realizadas manualmente por los clientes pudiendo elegir su borrado segun antiguedad 
 
+🔗 Repositorio: [github.com/1AdrianSanchez/Proyectos-FCT](https://github.com/1AdrianSanchez/Proyectos-FCT)
+
 🛠️ Lenguajes: Java
 
 📜 Características:
@@ -15,3 +17,11 @@ Programa que sirve para eliminar las copias de las BBDD realizadas manualmente p
 🚀 Comando para ejecutar el proyecto:
 - java -jar Borrar_Backups_Manuales.jar
 - java -jar Borrar_Backups_Manuales.exe
+
+🤝 Contribuciones
+Las contribuciones, ideas y mejoras son bienvenidas.
+
+📬 Contacto
+Desarrollado por Adrián Sánchez
+📧 Email: ass94zgz@gmail.com
+🌐 GitHub: @1AdrianSanchez
