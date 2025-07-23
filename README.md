@@ -23,7 +23,7 @@ Programa que sirve para eliminar las copias de las BBDD realizadas manualmente p
 
 
 🤝 Contribuciones
-Las contribuciones, ideas y mejoras son bienvenidas.
+- Las contribuciones, ideas y mejoras son bienvenidas.
 
 
 📬 Contacto
