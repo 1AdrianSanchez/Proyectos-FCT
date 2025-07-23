@@ -6,8 +6,9 @@ Programa que sirve para eliminar las copias de las BBDD realizadas manualmente p
 
 ---
 
-🛠️ Lenguajes: Java
+## 🛠️ Lenguajes: Java
 
+---
 
 📜 Características:
 
@@ -17,15 +18,18 @@ Programa que sirve para eliminar las copias de las BBDD realizadas manualmente p
 
 - Crea un archivo txt para llevar un registro de que backups han sido borrados y en qu fecha
 
+---
 
 🚀 Comando para ejecutar el proyecto:
 - java -jar Borrar_Backups_Manuales.jar
 - java -jar Borrar_Backups_Manuales.exe
 
+---
 
 🤝 Contribuciones
 - Las contribuciones, ideas y mejoras son bienvenidas.
 
+---
 
 📬 Contacto
 - Desarrollado por Adrián Sánchez
